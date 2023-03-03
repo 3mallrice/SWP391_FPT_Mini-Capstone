@@ -1,0 +1,35 @@
+# Build output
+build/
+dist/
+
+# IDE files
+nbproject/private/
+nbproject/build-impl.xml
+nbactions.xml
+
+# Log files
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+# Maven-specific files
+target/
+pom.xml.tag
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Eclipse-specific files
+.settings/
+.classpath
+.project
+.metadata/
+
+# IntelliJ-specific files
+*.iml
+*.ipr
+*.iws
+.idea/
