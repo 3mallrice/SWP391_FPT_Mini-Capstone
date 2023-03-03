@@ -9,7 +9,7 @@ TreeShop Auction is a Java web application with added auction functionality. The
 * HTML/CSS and Javascript 
 * Java with Apache Ant
 * MS SQL Server
-* Netbeans IDE.fpt.edu.vn/FrontOffice/StudentCurricu
+* Netbeans IDE
 
 ### Functions
 
