@@ -52,7 +52,7 @@ public class AddToCartServlet extends HttpServlet {
 
 ### Credits
 
-TreeShop Auction was developed by [`ChanhXaoSa`](https://github.com/ChanhXaoSa), [`Emallrice`](https://github.com/emallrice), [`TuanKiet29`](https://github.com/LETUANKIET29) as a project for SWT391 - Software development project.
+TreeShop Auction was developed by [`ChanhXaoSa`](https://github.com/ChanhXaoSa), [`Emallrice`](https://github.com/emallrice), [`LETUANKIET29`](https://github.com/LETUANKIET29) as a project for SWT391 - Software development project.
 
 ### Contributing
 
